@@ -11,3 +11,7 @@ APPSHEET 특) 미감 박살
 
 26/04/21
 APP script 써서 재개발중...
+
+PM 05:27 완성!  
+
+https://script.google.com/macros/s/AKfycbwsW793CVQBjSn7CGsZ6oAarFQqVBbn85cAHaitOdIJPaplpABNsRvF860AiuNzPG4-/exec
